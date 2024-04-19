@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JorgeCruz-dev/todolist/static/css/main.262ced99.css",
+    "main.js": "/JorgeCruz-dev/todolist/static/js/main.cdd86dde.js",
+    "index.html": "/JorgeCruz-dev/todolist/index.html",
+    "main.262ced99.css.map": "/JorgeCruz-dev/todolist/static/css/main.262ced99.css.map",
+    "main.cdd86dde.js.map": "/JorgeCruz-dev/todolist/static/js/main.cdd86dde.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.262ced99.css",
+    "static/js/main.cdd86dde.js"
+  ]
+}
